@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=WorldThree
+comment1.params=player1\ player2
+comment1.target=WorldThree(Player1,\ Player2)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ run()
+numComments=4

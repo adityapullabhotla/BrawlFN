@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=LevelTwoIntro
+comment1.params=player1\ player2
+comment1.target=LevelTwoIntro(Player1,\ Player2)
+comment2.params=
+comment2.target=void\ run()
+comment3.params=
+comment3.target=void\ act()
+numComments=4
